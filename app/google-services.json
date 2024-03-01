@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875977198516",
+    "project_id": "todoapp-73e86",
+    "storage_bucket": "todoapp-73e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875977198516:android:efa530d4c5223b0f12c0e1",
+        "android_client_info": {
+          "package_name": "com.damir.cofeeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdq6s6hH57ixoPG7DvWR9SqwbbCz9puQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
